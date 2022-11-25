@@ -1,0 +1,10 @@
+echo "# Toy-Problems-Week-1" 
+
+TITLE
+
+DESCRIPTION
+
+SET UP AND INSTRUCTIONS
+
+AUTHOR AND LICENCE
+
